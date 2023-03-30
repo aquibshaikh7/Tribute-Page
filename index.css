@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(#8680c5, #599ad7, #72b2e6);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.h {
+  color: greenyellow;
+}
+
+.div {
+  color: black;
+}
